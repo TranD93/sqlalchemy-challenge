@@ -3,9 +3,9 @@
 
 ### Dependencies:
 
-pandas
-SQLAlchemy
-Flask
+- pandas
+- SQLAlchemy
+- Flask
 
 ### Trip Analysis:
 
